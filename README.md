@@ -1,3 +1,5 @@
+This project and developer almost have no trace on the neat. Anyways, here's there text editor that was offered free and in its final form. 
+
 
 
 # Setup the project
